@@ -1,0 +1,133 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+@import "tailwindcss/screens";
+
+html {
+  scroll-behavior: smooth;
+
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind screens;
+
+section {
+  scroll-margin-top: 30px;
+}
+
+
+.header-buttons a {
+  font-weight: 500;
+  opacity: 1;
+  color: #6a6763 !important;
+}
+
+.about-header {
+  color: #6a6763 !important;
+}
+
+.portfolio-item img:hover {
+  transform: scale(1.05);
+  transition: transform 0.2s;
+}
+
+.certificationsBG {
+  background: linear-gradient(315deg, #a4c0e0cf, #bff6e600);
+}
+
+.homeBG {
+  background: rgb(255 255 255 / 9%);
+  border: 1px solid #f4433614;
+  box-shadow: 10px 10px 10px #f443361c;
+}
+
+.homeSubHeader {
+  color: #333;
+  /* text-shadow: 1px 1px rgba(0, 0, 0, 0.2); */
+}
+
+@keyframes move {
+  100% {
+    transform: translate3d(0, 0, 1px) rotate(360deg);
+  }
+}
+
+.background {
+  background-image: linear-gradient(to right bottom,
+      #53061e8a,
+      #090801,
+      #5a6386,
+      #43434324,
+      #666366d1);
+  /* background-image: linear-gradient(to right bottom, #ff78a28a, #fbefae, #c7cbd9, #00bcf924, #12e0eb4a) */
+}
+
+#izel {
+  position: absolute;
+  margin-top: -180px;
+  transform: rotateY(180deg);
+  right: 0px;
+  transition: right 1s linear;
+}
+
+.header-buttons a:hover {
+  opacity: 0.4;
+}
+
+#home {
+  background-image: url('../public/assets/background.jfif');
+  background-size: cover;
+  background-position: center center;
+  background-repeat: no-repeat;
+}
+
+#home-child {
+  background-size: 600% 600%;
+  -webkit-animation: AnimationName 35s ease infinite;
+  -moz-animation: AnimationName 35s ease infinite;
+  animation: AnimationName 35s ease infinite;
+}
+
+@-webkit-keyframes AnimationName {
+  0% {
+    background-position: 0% 90%
+  }
+
+  50% {
+    background-position: 100% 11%
+  }
+
+  100% {
+    background-position: 0% 90%
+  }
+}
+
+@-moz-keyframes AnimationName {
+  0% {
+    background-position: 0% 90%
+  }
+
+  50% {
+    background-position: 100% 11%
+  }
+
+  100% {
+    background-position: 0% 90%
+  }
+}
+
+@keyframes AnimationName {
+  0% {
+    background-position: 0% 90%
+  }
+
+  50% {
+    background-position: 100% 11%
+  }
+
+  100% {
+    background-position: 0% 90%
+  }
+}

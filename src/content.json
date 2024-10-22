@@ -1,0 +1,297 @@
+{
+  "sayHello": "Hello",
+  "aboutHeader": "I'm Izel!",
+  "location": {
+    "city": "Houston",
+    "state": "TX"
+  },
+  "aboutSubHeader": "I am a front-end developer, and this is my portfolio",
+  "about": "Graduated originally from Art Conservation & Restoration in Turkey, I discovered my interest in tech, especially UI/UX and Frontend development. After several bootcamps, many certificates, and hours of training, I was able to contribute to some projects as freelancer and contractor. I mostly use these, but still learning new stuff!",
+  "menu": [
+    {
+      "name": "Home",
+      "link": "#home"
+    },
+    {
+      "name": "About",
+      "link": "#about"
+    },
+    {
+      "name": "Portfolio",
+      "link": "#portfolio"
+    },
+    {
+      "name": "Certifications",
+      "link": "#certifications"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "class": "bg-blue-100 text-blue-800"
+    },
+    {
+      "name": "CSS",
+      "class": "bg-green-100 text-green-800"
+    },
+    {
+      "name": "JavaScript",
+      "class": "bg-yellow-100 text-yellow-800"
+    },
+    {
+      "name": "React",
+      "class": "bg-blue-100 text-blue-800"
+    },
+    {
+      "name": "Tailwind CSS",
+      "class": "bg-purple-100 text-purple-800"
+    },
+    {
+      "name": "TypeScript",
+      "class": "bg-red-100 text-red-800"
+    },
+    {
+      "name": "Node.js",
+      "class": "bg-indigo-100 text-indigo-800"
+    },
+    {
+      "name": "Bootstrap",
+      "class": "bg-pink-100 text-pink-800"
+    },
+    {
+      "name": "Redux",
+      "class": "bg-blue-100 text-blue-800"
+    },
+    {
+      "name": "NextJS",
+      "class": "bg-green-100 text-green-800"
+    },
+    {
+      "name": "AngularJS",
+      "class": "bg-yellow-100 text-yellow-800"
+    },
+    {
+      "name": "UI",
+      "class": "bg-blue-100 text-blue-800"
+    },
+    {
+      "name": "SCSS",
+      "class": "bg-purple-100 text-purple-800"
+    },
+    {
+      "name": "Figma",
+      "class": "bg-red-100 text-red-800"
+    },
+    {
+      "name": "Angular Material",
+      "class": "bg-blue-100 text-blue-800"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Front-End Engineer Career Path",
+      "provider": "Codecademy",
+      "providerLogo": "/assets/2024-10-10 14_40_07-(2) Codecademy_ Posts _ LinkedIn.png",
+      "link": "https://www.codecademy.com/profiles/izelozhan/certificates/2682884a0719474f96407efe432fdd87",
+      "year": 2024
+    },
+    {
+      "name": "Introduction to UI/UX Design",
+      "provider": "Codecademy",
+      "providerLogo": "/assets/2024-10-10 14_40_07-(2) Codecademy_ Posts _ LinkedIn.png",
+      "link": "https://www.codecademy.com/profiles/izelozhan/certificates/4ccef8d532484ea2aeec3b3b3dbb4f9c",
+      "year": 2024
+    },
+    {
+      "name": "Learn React",
+      "provider": "Codecademy",
+      "providerLogo": "/assets/2024-10-10 14_40_07-(2) Codecademy_ Posts _ LinkedIn.png",
+      "link": "https://www.codecademy.com/profiles/izelozhan/certificates/af00e5032d0a68cc84879983f5d8333b",
+      "year": 2024
+    },
+    {
+      "name": "Learn React Router",
+      "provider": "Codecademy",
+      "providerLogo": "/assets/2024-10-10 14_40_07-(2) Codecademy_ Posts _ LinkedIn.png",
+      "link": "https://www.codecademy.com/profiles/izelozhan/certificates/15b32ebcd95f164740d02275674fc5ee",
+      "year": 2024
+    },
+    {
+      "name": "Responsive Web Design",
+      "provider": "freeCodeCamp",
+      "providerLogo": "/assets/free_code_camp_logo.jfif",
+      "link": "https://freecodecamp.org/certification/izelozhan/responsive-web-design",
+      "year": 2023
+    },
+    {
+      "name": "JavaScript Algorithms and Data Structures",
+      "provider": "freeCodeCamp",
+      "providerLogo": "/assets/free_code_camp_logo.jfif",
+      "link": "https://freecodecamp.org/certification/izelozhan/javascript-algorithms-and-data-structures",
+      "year": 2022
+    },
+    {
+      "name": "HTML and CSS in Depth",
+      "provider": "Meta",
+      "providerLogo": "/assets/meta_logo.jfif",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/WDC5F6HMAV2U",
+      "year": 2022
+    },
+    {
+      "name": "React Basics",
+      "provider": "Meta",
+      "providerLogo": "/assets/meta_logo.jfif",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/7HTRD7HPX8R6",
+      "year": 2022
+    },
+    {
+      "name": "Programming with JavaScript",
+      "provider": "Meta",
+      "providerLogo": "/assets/meta_logo.jfif",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/PE76MVJCNT84",
+      "year": 2022
+    },
+    {
+      "name": "Version Control",
+      "provider": "Meta",
+      "providerLogo": "/assets/meta_logo.jfif",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/J8W3XYSG32CN",
+      "year": 2022
+    },
+    {
+      "name": "Front-End JavaScript Frameworks: Angular",
+      "provider": "The Hong Kong Uni. of Sci.",
+      "providerLogo": "/assets/hkust_logo.jfif",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/TFF948PMMHAR",
+      "year": 2022
+    },
+    {
+      "name": "Learn Angular Routing project",
+      "provider": "Coursera",
+      "providerLogo": "/assets/coursera_logo.jfif",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/AXMVXQX5W7A6",
+      "year": 2022
+    },
+    {
+      "name": "JavaScript Basics",
+      "provider": "University of California, Davis",
+      "providerLogo": "/assets/uc_davis_logo.jfif",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/SQNN34PC3F8W",
+      "year": 2022
+    },
+    {
+      "name": "HTML, CSS, and Javascript for Web Developers",
+      "provider": "The John Hopkins University",
+      "providerLogo": "/assets/johns_hopkins_university_logo.jfif",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/2PZMAD2XSC6N",
+      "year": 2021
+    }
+  ],
+  "projects": [
+    {
+      "title": "Repricer AI",
+      "link": "https://repricerai.com",
+      "role": "Frontend Developer (Contractor)",
+      "tech": "Angular, Tailwind, SCSS, TypeScript",
+      "description": "Upgraded Angular & Angular material, code refactoring, implementing responsive design, internalization (i18n).",
+      "images": [ "/assets/repricer ss2.png"],
+      "year": 2024
+    },
+    {
+      "title": "Hiring Tool",
+      "link": "https://hiringtool.co",
+      "role": "Frontend Developer",
+      "tech": "Angular, Tailwind, SCSS, TypeScript, Figma",
+      "description": "Developed settings, job portal component, applicant detail component, refactoring, implementing responsive design.",
+      "images": [
+        "/assets/hiringTool.png",
+        "/assets/applicant-tracking-hiring-board-1024x728.png"
+      ],
+      "year": 2023
+    },
+    {
+      "title": "F-Brandz Inventory Sync",
+      "link": "Internal",
+      "role": "Frontend Developer (Contractor)",
+      "tech": "React, Tailwind, SCSS",
+      "description": "Developed all UI with React for an internal tool which integrates with a company's inventory management software.",
+      "images": [
+        "/assets/fb1.png",
+        "/assets/fb2.png",
+        "/assets/fb3.png",
+        "/assets/fb4.png",
+        "/assets/fb5.png"
+      ],
+      "year": 2023
+    },
+    {
+      "title": "Immigrant Buddies",
+      "link": "https://immigrantbuddies.com",
+      "role": "Frontend Developer - Part Time (Volunteer)",
+      "tech": "React, Tailwind, SCSS, Next.js, Figma",
+      "description": "Contributing to this awesome non-profit project where I developed components and converted Figma designs into code.",
+      "images": ["/assets/profileIB.png", "/assets/profileIB.png"],
+      "year": 2024
+    },
+    {
+      "title": "Poem Writer with RAG",
+      "link": "https://github.com/izelozhan/poetry-factory",
+      "role": "Personal Project 👩🏻‍ 💻",
+      "tech": "React, Weaviate API, OpenAI API",
+      "description": "In this project I made an application that integrates with Weaviate to gather inputs from the user to build a poem using machine learning and vector databases.",
+      "images": ["/assets/PoetryFactory.png", "/assets/PoetryFactory.png"],
+      "year": 2024
+    },
+    {
+      "title": "Spotify Playlist Creator",
+      "link": "https://github.com/izelozhan/spotify-clone",
+      "role": "Personal Project 👩🏻‍ 💻",
+      "tech": "Spotify API, React",
+      "description": "Created a simple application that integrates with Spotify API to search for songs, and create a playlist out of selected songs.",
+      "images": [
+        "/assets/spotify-playlist-generator.png",
+        "/assets/spotify-playlist-generator.png"
+      ],
+      "year": 2023
+    },
+    {
+      "title": "Carfinder",
+      "link": "https://github.com/izelozhan/carfinder",
+      "role": "Personal Project 👩🏻‍ 💻",
+      "tech": "Figma, React, HTML, CSS",
+      "description": "Created a simple application that finds the best car for you based on the selection and rating of 3 cars of your choice.",
+      "images": ["/assets/carfinder 1.png", "/assets/carfinder 2.png"],
+      "year": 2024
+    }
+  ],
+  "education": [
+    {
+      "name": "👩🏻‍💻 Frontend Engineer Bootcamp",
+      "school": "Codecademy",
+      "location": "Remote",
+      "start": 2023,
+      "end": 2024
+    },
+    {
+      "name": "🎓 BASc - Conservation & Restoration",
+      "school": "Gelisim University",
+      "location": "Istanbul, Turkey",
+      "start": 2016,
+      "end": 2020
+    },
+    {
+      "name": "🏫 AA - Cultural Heritage",
+      "school": "Istanbul University",
+      "location": "Istanbul, Turkey",
+      "start": 2020,
+      "end": 2022
+    }
+  ],
+  "footerLeft": "2024 | Built by Izel Ozhan",
+  "footerRight": "Made with React, ❤️ and Tailwind CSS",
+  "linkedInURL": "https://www.linkedin.com/in/izelozhan/",
+  "githubURL": "https://github.com/izelozhan",
+  "gmail":  "mailto:izelozhan@gmail.com",
+  "contactMeURL": "https://form.jotform.com/242950556174158"
+  
+}
