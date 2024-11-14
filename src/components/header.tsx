@@ -8,7 +8,7 @@ const Header: React.FC<{ Content: DataItem }> = ({ Content }) => {
         className="h-screen flex items-center justify-center"
       >
         <div className="flex flex-row w-full justify-center">
-          <div className=" p-14 justify-center w-1/2 homeBG">
+          <div className="p-14 justify-center lg:w-1/2 sm:w-full xs:w-full md:w-1/2 homeBG">
             <p className="uppercase font-semibold text-lg text-pinkish">
               {Content.sayHello}
             </p>
@@ -31,7 +31,7 @@ const Header: React.FC<{ Content: DataItem }> = ({ Content }) => {
                   <p className="text-xl homeSubHeader ">Contact me</p>
                 </a>
               </div>
-              <div className="mt-4 flex justify-end">
+              <div className=" flex justify-end">
                 <a
                   href={Content.linkedInURL}
                   target="_blank"
